@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Crazy Life",
+  "base_artist": "Tiji Jojo",
+  "createdAt": "2026-02-16T09:03:51.251408Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mi Vida Loca (my Crazy Life)",
+      "artist": "Pam Tillis",
+      "has_synced": false,
+      "path": "select/01_Mi_Vida_Loca_(my_Crazy_Life)_Pam_Tillis.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Crazy Life",
+      "artist": "Gino Vannelli",
+      "has_synced": true,
+      "path": "select/02_Crazy_Life_Gino_Vannelli.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'm Not Crazy, Life Is (feat. Chance The Rapper, Kodak Black)",
+      "artist": "2 Chainz feat. Chance the Rapper & Kodak Black",
+      "has_synced": true,
+      "path": "select/03_I'm_Not_Crazy,_Life_Is_(feat._Chance_The_Rapper,_Kodak_Black)_2_Chainz_feat._Chance_the_Rapper_&_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'm Not Crazy, Life Is (feat. Chance the Rapper & Kodak Black)",
+      "artist": "2 Chainz",
+      "has_synced": true,
+      "path": "select/04_I'm_Not_Crazy,_Life_Is_(feat._Chance_the_Rapper_&_Kodak_Black)_2_Chainz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Crazy Life",
+      "artist": "Toad the Wet Sprocket",
+      "has_synced": true,
+      "path": "select/05_Crazy_Life_Toad_the_Wet_Sprocket.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Crazy life",
+      "artist": "Gino Vannelli",
+      "has_synced": false,
+      "path": "select/06_Crazy_life_Gino_Vannelli.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crazy Life",
+      "artist": "Toad The Wet Sprocket",
+      "has_synced": true,
+      "path": "select/07_Crazy_Life_Toad_The_Wet_Sprocket.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Crazy Life",
+      "artist": "Slash",
+      "has_synced": false,
+      "path": "select/08_Crazy_Life_Slash.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "What A Crazy Life",
+      "artist": "The Cats",
+      "has_synced": true,
+      "path": "select/09_What_A_Crazy_Life_The_Cats.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Crazy Life!",
+      "artist": "Bleu",
+      "has_synced": false,
+      "path": "select/10_A_Crazy_Life!_Bleu.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Crazy Life (NOW What’s Next!)",
+      "artist": "Bleu",
+      "has_synced": false,
+      "path": "select/11_A_Crazy_Life_(NOW_What’s_Next!)_Bleu.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Crazy Life",
+      "artist": "Slash featuring Myles Kennedy and The Conspirators",
+      "has_synced": false,
+      "path": "select/12_Crazy_Life_Slash_featuring_Myles_Kennedy_and_The_Conspirators.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Crazy Life",
+      "artist": "(hed) p.e.",
+      "has_synced": true,
+      "path": "select/13_Crazy_Life_(hed)_p.e..lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I’m Not Crazy, Life Is",
+      "artist": "2 Chainz",
+      "has_synced": true,
+      "path": "select/14_I’m_Not_Crazy,_Life_Is_2_Chainz.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Crazy Life",
+      "artist": "(Hed) Planet Earth",
+      "has_synced": false,
+      "path": "select/15_Crazy_Life_(Hed)_Planet_Earth.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mi Vida Loca (My Crazy Life)",
+      "artist": "Pam Tillis",
+      "has_synced": true,
+      "path": "select/16_Mi_Vida_Loca_(My_Crazy_Life)_Pam_Tillis.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Crazy Life",
+      "artist": "Home Free",
+      "has_synced": true,
+      "path": "select/17_Crazy_Life_Home_Free.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I’m Not Crazy, Life Is",
+      "artist": "2 Chainz feat. Chance the Rapper & Kodak Black",
+      "has_synced": true,
+      "path": "select/18_I’m_Not_Crazy,_Life_Is_2_Chainz_feat._Chance_the_Rapper_&_Kodak_Black.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Crazy Life",
+      "artist": "Tiji Jojo",
+      "has_synced": false,
+      "path": "select/pl_01_Crazy_Life_Tiji_Jojo.txt"
+    }
+  ]
+}
